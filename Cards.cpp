@@ -2,6 +2,7 @@
 #include<stdio.h>
 #include<time.h>
 #include<vector>
+#include <cstdlib>
 using namespace std;
 #ifndef Card_CLASS
 #define Card_CLASS
